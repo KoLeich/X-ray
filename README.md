@@ -1,8 +1,8 @@
 # Tool for the tickness of brushes
 
-just use 
+To run the programm use:
+
 `python3 main.py`
 
-
-on the gui you get the docu
-in the foulder ist just one data
+You can access the operating instructions via the programme's gui
+There is an example file in dql to get to know the programme. The data has no relation to real measurements
